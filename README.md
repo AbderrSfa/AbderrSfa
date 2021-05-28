@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **a project called minishell**.
-- 🌱 I’m currently learning **as much as possible on as many things as possible**.
+- 🌱 I’m currently learning **as much as possible about as many things as possible**.
 - 💬 Ask me about **anything**.
 - 📫 How to reach me: abderrahmanesfaihi@hotmail.com
 - ⚡ Fun fact: **The point of a lock is to turn a door into a wall**.
