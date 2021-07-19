@@ -1,5 +1,3 @@
-### Well hello there 👋
-
 ![tenor](https://user-images.githubusercontent.com/58333462/126063505-6ec1c17b-840e-45a7-97b7-f6cd90b38560.gif)
 - 🔭 I’m currently working on **a project called minishell**.
 - 🌱 I’m currently learning **as much as possible about as many things as possible**.
