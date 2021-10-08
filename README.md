@@ -1,4 +1,4 @@
-<img width="1000" alt="Screen Shot 2021-09-22 at 5 24 36 PM" src="https://user-images.githubusercontent.com/58333462/134383830-473390ea-575f-4082-81f0-c0bc4eaa477c.png">
+![134383830-473390ea-575f-4082-81f0-c0bc4eaa477c](https://user-images.githubusercontent.com/58333462/136580416-086e54b2-058a-4731-876f-2c39f1f43a48.jpg)
 
 - 🔭 I’m currently working on **a project called minishell**.
 - 🌱 I’m currently learning **as much as possible about as many things as possible**.
