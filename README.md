@@ -6,7 +6,6 @@
 - 📫 Contact me @: abderrahmanesfaihi@hotmail.com
 - ⚡ Fun fact: **The point of a lock is to turn a door into a wall**.
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=asfaihi)](https://github.com/abderrsfa)
 ![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=abderrsfa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrsfa&text_color=daf7dc&bg_color=151515)](https://github.com/AbderrSfa?tab=repositories)
 <!--
