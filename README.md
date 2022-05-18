@@ -1,6 +1,6 @@
 ![134383830-473390ea-575f-4082-81f0-c0bc4eaa477c](https://user-images.githubusercontent.com/58333462/136580416-086e54b2-058a-4731-876f-2c39f1f43a48.jpg)
 
-- 🔭 I’m currently working on a project called **[ft_irc](https://github.com/barimehdi77/ft_irc)**.
+- 🔭 I’m currently working on a project called **ft_transcendence**.
 - 🌱 I’m currently learning **as much as possible about as many things as possible**.
 - 💬 Ask me about **anything**.
 - 📫 Contact me @: abderrahmanesfaihi@hotmail.com
