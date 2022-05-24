@@ -11,7 +11,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrsfa&theme=radical" />
 </p>
 
-![BariMehdi77's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abderrsfa&theme=redical)
+![AbderrSfa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abderrsfa&theme=redical)
 
 <!--
 **AbderrSfa/AbderrSfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
