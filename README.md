@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a project called [**ft_transcendence**](https://github.com/barimehdi77/ft_transcendence).
 - 🌱 I’m currently learning **as much as possible about as many things as possible**.
 - 💬 Ask me about **anything**.
-- 📫 Contact me @: **abderrahmanesfaihi@hotmail.com**
+- 📫 Contact me @: **abderrahmanesfaihi98@gmail.com**
 - ⚡ Fun fact: **The point of a lock is to turn a door into a wall**.
 
 <p align="center">
